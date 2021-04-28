@@ -20109,9 +20109,9 @@ function _openMiFirma() {
 
 /***/ }),
 
-/***/ "./src/helpers/fallbackAuthHelper.js":
+/***/ "./src/helpers/fallbackauthhelper.js":
 /*!*******************************************!*\
-  !*** ./src/helpers/fallbackAuthHelper.js ***!
+  !*** ./src/helpers/fallbackauthhelper.js ***!
   \*******************************************/
 /*! exports provided: dialogFallback */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -20224,7 +20224,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 /* global OfficeRuntime, require */
 var documentHelper = __webpack_require__(/*! ./documentHelper */ "./src/helpers/documentHelper.js");
 
-var fallbackAuthHelper = __webpack_require__(/*! ./fallbackAuthHelper */ "./src/helpers/fallbackAuthHelper.js");
+var fallbackAuthHelper = __webpack_require__(/*! ./fallbackauthhelper */ "./src/helpers/fallbackauthhelper.js");
 
 var sso = __webpack_require__(/*! office-addin-sso */ "./node_modules/office-addin-sso/lib/main.js");
 
